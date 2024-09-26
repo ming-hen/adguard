@@ -21,3 +21,8 @@
 ||youtube.com^
 ||tiktok.com^
 ||dailymotion.com^
+||netflix.com^
+||twitch.tv^
+||9gag.com^
+||dtube.com^
+

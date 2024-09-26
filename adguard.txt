@@ -19,6 +19,8 @@
 !
 ||phidianowlet.com^
 ||youtube.com^
+||ytimg.com^
+||youtu.be^
 ||tiktok.com^
 ||dailymotion.com^
 ||netflix.com^
